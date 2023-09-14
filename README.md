@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+![MasterHead](https://i.ytimg.com/vi/JTZAJJUR9xc/maxresdefault.jpg)
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sankarshan Tayade.
@@ -65,3 +65,35 @@ Here are some ideas to get you started:
   <a href="https://powerbi.microsoft.com/en-in/desktop/" > <img src="https://user-images.githubusercontent.com/137817362/266267984-ab3e4a04-0d60-45e1-bf3a-57b038ee1427.png" height="48" alt="PowerBiDesktop" > </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" > <img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" width="50" height="55" > </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" > <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e
+
+<br>
+<br>
+<br>
+
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> GitHub Stats:  
+</h2>
+
+<a href="https://github.com/Sankarshanpower8i">
+<img src="https://github-readme-stats.vercel.app/api?username=Sankarshanpower8i&&show_icons=true&theme=radical&line_height=27&v=5" alt="Sankarshan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshanpower8i&theme=radical&hide=glsl,python" />
+
+<br>
+<br>
+<br>
+
+<h2 dir="auto"> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40"> </a> <strong>Reach out to me:</strong> </h2>
+<p align="center" dir="auto">
+<a href="https://www.linkedin.com/in/sankarshan-tayade/"> <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67"  height="50" > </a>
+<a href="mailto:sankarshanrtayade@gmail.com"> <img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67"  height="50" > </a>
+<a href="https://www.hackerrank.com/sankarshan_tayad"> <img src="https://user-images.githubusercontent.com/137817362/266239493-4e65699f-6e11-488f-9af9-f50b54fa5a3f.png"  height="50" ></a>
+  
+<br>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/SankarshanTayade/count.svg" alt="Visitor Count">
+</p>
+
+<h2 align="center">
+  Show some ❤️ by starring some of the repositories!
+</h2>

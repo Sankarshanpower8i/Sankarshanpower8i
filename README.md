@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h2 dir="auto"> <img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" > <strong>Languages &amp; Tools:</strong></h2>
 
 <p align="center">  
-  <a href="https://www.python.org/"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706n67" alt="python" height="50" > </a> 
+   <a href="https://www.python.org"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" alt="python" height="50" > </a> 
   <a href="https://numpy.org/doc/stable/index.html"> <img src="https://user-images.githubusercontent.com/137817362/266224257-b20f32fc-6cfe-48fe-8ef0-68c45373be61.png" alt="numpy" height="50" > </a>
   <a href="https://pandas.pydata.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" > </a> 
   <a href="https://matplotlib.org/stable/index.html" > <img src="https://user-images.githubusercontent.com/137817362/266225645-03569596-3262-411a-af13-1b678c60a2e1.png" alt="Matplotlib" width="50" height="50" > </a>

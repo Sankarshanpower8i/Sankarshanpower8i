@@ -46,10 +46,11 @@ Here are some ideas to get you started:
 - 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/sankarshan-tayade-947918ab/" rel="nofollow">LinkedIn</a></strong>
 
 <br>
-<br>
-<br>
+
 
 <h2 dir="auto"> <img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" > <strong>Languages &amp; Tools:</strong></h2>
+
+<br>
 
 <p align="center">  
    <a href="https://www.python.org"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" alt="python" height="50" > </a> 
@@ -65,8 +66,7 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" > <img src="https://camo.githubusercontent.com/6210c820aedc56cac0ff68310216858a28e267c72fbdc89700167caafe3606f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e63792f34382f3030303030302f6d6963726f736f66742d657863656c2d323031392e706e67" width="50" height="55" > </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" > <img src="https://camo.githubusercontent.com/c24d399e4e3f39d7d5a118314f185e5974d3eaeb05181054a0ea8bb34f3cc3f5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d706f776572706f696e742d323031392d2d76312e706e67" width="55" height="55" > </a>
 <br>
-<br>
-<br>
+
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> GitHub Stats:  

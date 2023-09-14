@@ -73,15 +73,18 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> GitHub Stats:  
 </h2>
 
+<br>
+<br>
+<br>
+
 <a href="https://github.com/Sankarshanpower8i">
-<img src="https://github-readme-stats.vercel.app/api?username=Sankarshanpower8i&&show_icons=true&theme=radical&line_height=27&v=5" alt="Sankarshan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankarshanpower8i&show_icons=true&theme=radical&line_height=27&v=5" alt="Sankarshan's GitHub Stats" />
+</a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshanpower8i&theme=radical&hide=glsl,python" />
 
 <br>
 <br>
 <br>
-
-
 
 
 <h2 dir="auto"> <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40"> </a> <strong>Reach out to me:</strong> </h2>

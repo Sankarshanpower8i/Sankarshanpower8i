@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 - 👨‍💻 All of my projects are available at <strong> <a href="https://github.com/SankarshanTayade" rel="nofollow">GitHub</a></strong>
  
-- 📫 Contact me through <strong> <a href="https://www.linkedin.com/in/sankarshan-tayade" rel="nofollow">LinkedIn</a></strong>
+- 📫 Contact me through <strong> <a href="linkedin.com/in/sankarshan-tayade-947918ab" rel="nofollow">LinkedIn</a></strong>
 
 <br>
 <br>

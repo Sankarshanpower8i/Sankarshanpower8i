@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://i.ytimg.com/vi/JTZAJJUR9xc/maxresdefault.jpg)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sankarshan Tayade.

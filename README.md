@@ -14,26 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*QGWyxDaFhavZa495eJBO9Q.jpeg)
+![1664044041049](https://github.com/Sankarshanpower8i/Vegetable-Data-Analyisis/assets/133600711/12aae88f-7f1c-4834-8e3d-6ec99890a670)
+
 
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Sankarshan Tayade.
 </h1>
 
+
 <h3 align="center">
   <b>A passionate and Insightful Data Analyst</b>
+  
 </h3>
 
-<br>
-<br>
-<br>
 
-<img align="right" alt="Coding" width="430" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
 </h2>
-
+<img align="right" alt="Coding" width="430" src="https://github.com/Sankarshanpower8i/Vegetable-Data-Analyisis/assets/133600711/93e8beb0-915a-472a-b7fd-567d71a02aa0">
 - 🌐 Aspiring to make an impact as a **Data Analyst**
    
 - 🔭 Currently sharpening my **Analytical skills**

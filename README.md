@@ -80,8 +80,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Sankarshanpower8i&show_icons=true&theme=radical&line_height=27&v=5" alt="Sankarshan's GitHub Stats" />
 </a>
 <a href="https://github.com/Sankarshanpower8i">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankarshanpower8i&theme=radical&hide=glsl,python" />
-</a>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pragya-011&theme=radical&hide=glsl,python" />
 
 <br>
 <br>

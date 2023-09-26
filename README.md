@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/238201079-e379a33a-b428-4385-b44f-3da16e7bac9f.gif" width="50"> About Me :
 </h2>
-<img align="right" alt="Coding" width="430" src="https://github.com/Sankarshanpower8i/Vegetable-Data-Analyisis/assets/133600711/93e8beb0-915a-472a-b7fd-567d71a02aa0">
+<img align="right" alt="Coding" width="430" src="https://github.com/Sankarshanpower8i/Vegetable-Data-Analyisis/assets/133600711/85f89435-3bdb-4f2a-a8de-e5a7e8c079ba">
 - 🌐 Aspiring to make an impact as a **Data Analyst**
    
 - 🔭 Currently sharpening my **Analytical skills**
